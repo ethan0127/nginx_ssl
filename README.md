@@ -107,7 +107,7 @@
     R 280117073038Z 180119081329Z 04 unknown /C=CN/ST=ZheJiang/O=zhanqi/OU=zq/CN=yan
 
 
-下面来注销第一行这个证书:
+    下面来注销第一行这个证书:
     cd newcerts
     [root@master newcerts]# ls
     01.pem 02.pem 03.pem 04.pem
