@@ -67,7 +67,7 @@
     openssl ca -in client.csr -out client.crt -days 3650
 
 
-五，nginx 配置
+五、nginx 配置
     server{
             listen 443;
             server_name localhost;
